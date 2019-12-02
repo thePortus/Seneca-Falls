@@ -26,3 +26,7 @@ After depriving her of all rights as a married woman, if single and the owner of
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Firmly relying upon the final triumph of the Right and the True, we do this day affix our signatures to this declaration.
 
 ![alt text](imgs/sig.jpg "This document is the "confirmation page" of signatures in signed order from the convention") .)
+
+---
+{% include nav.html %}
+---

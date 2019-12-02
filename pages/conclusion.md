@@ -7,3 +7,8 @@
 
 ### Works Cited
 * [placeholder fill me in]
+
+
+---
+{% include nav.html %}
+---

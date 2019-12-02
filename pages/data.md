@@ -12,3 +12,7 @@
 
 ### The Result
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While some visualizations were easily created in Tableau, and the map of exports already made for us, the true challenge came in using Tableau with little knowledge in order to create visually pleasing charts and graphs that effectively conveyed the findings of our data; Portugal was a major exported of slaves, to the point that it eclipsed every other exporter combined. A massive amount of slaves were sent to the newly formed colony of Brazil, while a sizeable portion of the exported Portuguese slaves went to America and the Caribbean.
+
+---
+{% include nav.html %}
+---
