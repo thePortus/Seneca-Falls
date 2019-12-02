@@ -1,6 +1,6 @@
 # The Declaration of Rights and Sentiments
 
-![Title Image]({{ site.baseurl }}/assets/images/dec.png "The Declaration as drafted during the convention was reprinted in a newspaper the following day, with the order of signatures being alphabetized.")
+![Title Image]({{ site.baseurl }}/assets/images/doc.png "The Declaration as drafted during the convention was reprinted in a newspaper the following day, with the order of signatures being alphabetized.")
 
 ## Below is the Declaration in its entirety in plain text.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When, in the course of human events, it becomes necessary for one portion of the family of man to assume among the people of the earth a position different from that which they have hitherto occupied, but one to which the laws of nature and of nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes that impel them to such a course.<br>
