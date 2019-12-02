@@ -25,7 +25,7 @@ After depriving her of all rights as a married woman, if single and the owner of
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In entering upon the great work before us, we anticipate no small amount of misconception, misrepresentation, and ridicule; but we shall use every instrumentality within our power to effect our object. We shall employ agents, circulate tracts, petition the State and national Legislatures, and endeavor to enlist the pulpit and the press in our behalf. We hope this Convention will be followed by a series of Conventions, embracing every part of the country.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Firmly relying upon the final triumph of the Right and the True, we do this day affix our signatures to this declaration.<br>
 
-![alt text](imgs/sig.jpg "This document is the "confirmation page" of signatures in signed order from the convention") .)
+![Title Image]({{ site.baseurl }}/assets/images/signers.jpg "This document is the "confirmation page" of signatures in signed order from the convention")
 
 ---
 {% include nav.html %}
