@@ -2,7 +2,7 @@
 ### The Process
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First, I located some newspapers handily sourced from archives & newspapers.com. From there, I scraped the sites to get a plain text version that can be analyzed by Orange. After the webscrape, the data was collected and input into a fairly massive excel document so I could analyze everything at once. After cleaning up a few "unusable" entries via filter (usually an offhand mention of the word "woman" that would come up in a search but bear no relevance to suffrage or rights). An idea of all the processing and work that goes into work like this can be shown below. This is a screen shot of my workflow in Orange3.
 
-![Title Image]({{ site.baseurl }}/assets/images/orange.png "This isn't as bad as it looks.")
+![Title Image]({{ site.baseurl }}/assets/images/orange.png "Work made easy thanks to Orange3")
 
 ---
 
