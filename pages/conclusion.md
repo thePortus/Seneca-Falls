@@ -7,8 +7,8 @@
 The GIS map was designed by first obtaining pertinent information for the signers we do have. Whether obtained through monographs, textbooks, or online databases containing biographies of the individual. By doing research on a subject, we can determine where they lived in 1848, and then that information can be entered into GIS to generate a map.
 
 ### Text analysis
-While many tools exist to analyze text, the one I personally use is called Orange.
-By utilizing Orange, I can force an unbiased computer to summarize a text, classify the information, assess the tone and intent of the document, investigate the sources, as well as add insight that a human couldn't easily provide.
+While many tools exist to analyze text, the one I personally use is called Orange3.
+By utilizing Orange3, I can force an unbiased computer to summarize a text, classify the information, assess the tone and intent of the document, investigate the sources, as well as add insight that a human couldn't easily provide.
 
 
 ---

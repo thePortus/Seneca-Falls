@@ -23,6 +23,15 @@
 
 ![Title Image]({{ site.baseurl }}/assets/images/cluster.png "Computers really dont get sarcasm.")
 
+---
+
+### Word Cloud
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Word Clouds actually provide no real insight or value to an academic work. They're usually a novelty and can't prove anything yet still appeal to people as some kind of technical marvel. Before I generated the following word cloud I guessed that the center would contain "woman","man", "rights", and "power" and I was unsurprised at the result. But for posterity's sake, here's a word cloud.
+
+![Title Image]({{ site.baseurl }}/assets/images/cloud.png "Were you surprised, though?")
+
+
+
 
 ---
 {% include nav.html %}
