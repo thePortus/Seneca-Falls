@@ -105,6 +105,7 @@ Thirty-two men signed the Declaration of Sentiments under the heading *...the ge
 98. Stephen Shear
 99. Henry Hatley
 100. Azaliah Schooley
+
 ---
 {% include nav.html %}
 ---
