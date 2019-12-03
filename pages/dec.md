@@ -1,6 +1,6 @@
 # The Declaration of Rights and Sentiments
 
-![Title Image]({{ site.baseurl }}/assets/images/doc.png "The Declaration as drafted during the convention was reprinted in a newspaper the following day, with the order of signatures being alphabetized.")
+![Title Image](/assets/images/doc.png "The Declaration as drafted during the convention was reprinted in a newspaper the following day, with the order of signatures being alphabetized.")
 
 ## Below is the Declaration in its entirety in plain text.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When, in the course of human events, it becomes necessary for one portion of the family of man to assume among the people of the earth a position different from that which they have hitherto occupied, but one to which the laws of nature and of nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes that impel them to such a course.<br>
@@ -25,7 +25,7 @@ After depriving her of all rights as a married woman, if single and the owner of
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In entering upon the great work before us, we anticipate no small amount of misconception, misrepresentation, and ridicule; but we shall use every instrumentality within our power to effect our object. We shall employ agents, circulate tracts, petition the State and national Legislatures, and endeavor to enlist the pulpit and the press in our behalf. We hope this Convention will be followed by a series of Conventions, embracing every part of the country.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Firmly relying upon the final triumph of the Right and the True, we do this day affix our signatures to this declaration.<br>
 
-![Title Image]({{ site.baseurl }}/assets/images/signers.jpg "This document is the "confirmation page" of signatures in signed order from the convention")
+![Title Image](/assets/images/signers.jpg "This document is the "confirmation page" of signatures in signed order from the convention")
 
 ---
 {% include nav.html %}
