@@ -17,4 +17,3 @@ theme: jekyll-theme-dinky
 source: ./pages
 collections_dir: ./pages
 includes_dir: _includes
-baseurl: https://arifizu.github.io/Seneca-Falls
