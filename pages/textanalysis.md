@@ -14,14 +14,14 @@
 ### Sentiments
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setting out, I wanted to get the sentiments of a few articles and pair it with the Stanton address to see what a computer would determine is either in support of, or against women's rights. Once all the information is compiled, we can process the text and see what the computer believes are the dividing lines. In order to read this, consider 0 a neutral point, 1 in support of, and -1 in opposition to. Orange3 successfully identified the topic as something to do with Women and scored the articles accordingly. Interestingly enough, a computer can't detect sarcasm, so the *Oneida Whig* article comes up as fairly close to a 1.
 
-![Title Image]({{ site.baseurl }}/assets/images/sentiment.png "Computers really dont get sarcasm.")
+![Title Image]({{ site.baseurl }}/assets/images/sentiment.png "Sarcasm undetected")
 
 ---
 
 ### Clustering
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another technique in text processing we can use is called clustering, where an AI attempts to not only determine sentiment, but classify entries together in order to determine their relevancy to eachother. In the image below, you'll see three clusters created by Orange3. The *Oneida Whig* article is a sarcastic response to the *Declaration*, so naturally the program detected that and paired them together. The *North Star* article by Frederick Douglass supports women's rights without mentioning the *Declaration*, because, as Douglass mentioned in the article, he did not want to "mar" its efficacy. Therefore, it was placed with the only other document that did not mention the *Declaration* and still supported women's rights, which is the Stanton address. Finally, the Mechanic's advocate article was noted by the program to be negative and was seperated as such.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another technique in text processing we can use is called clustering, where an AI attempts to not only determine sentiment, but classify entries together in order to determine their relevancy to eachother. In the image below, you'll see three clusters created by Orange3. The *Oneida Whig* article is a sarcastic response to the *Declaration*, so naturally the program detected that it was referring to the *Declaration* and paired them together regardless of connotation. The *North Star* article by Frederick Douglass supports women's rights without mentioning the *Declaration*, because, as Douglass mentioned in the article, he did not want to "mar" its efficacy. Therefore, it was placed with the only other document that did not mention the *Declaration* and still supported women's rights, which is the Stanton address. Finally, the Mechanic's advocate article was noted by the program to be negative and was seperated as such.
 
-![Title Image]({{ site.baseurl }}/assets/images/cluster.png "Computers really dont get sarcasm.")
+![Title Image]({{ site.baseurl }}/assets/images/cluster.png "Sarcasm still undetected. Putting in a patent for a Sarcasm-bot.")
 
 ---
 
